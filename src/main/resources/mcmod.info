@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "hiddenmodid",
+    "name": "ModIDHider",
+    "description": "mod id hider.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Odtheking" ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

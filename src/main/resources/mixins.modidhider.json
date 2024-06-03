@@ -1,0 +1,11 @@
+{
+  "package": "me.modidhider.mixin",
+  "refmap": "mixins.modidhider.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinModList"
+  ],
+  "client": [
+  ]
+}
